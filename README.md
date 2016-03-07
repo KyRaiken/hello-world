@@ -1,2 +1,2 @@
 # hello-world
-1sterino
+Want to get started on open source to improve myself.
